@@ -1,0 +1,64 @@
+<!doctype html>
+<!--atalho: ! + enter/tab-->
+<!--atalho: html:5 = enter-->
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>document</title>
+</head>
+<body><!--so existe 1-->
+<header>
+    <!--cabeçalho da pagina-->
+    <center><h1>REYNAN GABRIEL</h1></center> <!--centralizar -->
+    <hr><!--linhas-->
+<nav>
+    <!--menu de navegações-->
+    <H1> ESTATISTICA PESSOAL</H1>
+    </P>Revelação da overtime elite...<br>
+    Com medias altas em Todos os aspectos, ele vem se destacando com sua habilidade e força fisica<br>
+    MEDIAS absurdas:<br>
+    PONTOS: 43 PPJ<br>
+    REBOTE:15 RPJ<br>
+    ASSISTENCIAS: 11 APJ<br>
+</nav>
+<hr>
+<main><!--todo o conteudo do site--> 
+<section><!--sessoẽs do corpo-->
+     <h2>Materia Principal</h2><!--atalho: loren +enter para esse texto abaixo-->
+    <p>Há muito tempo o basquete brasileiro nao via um talento com tanto potencial <br>
+ como reynan gabriel camilo dos santos. O ala-armador de apenas 19 anos foi um<br>
+dos principais destaques da cold hearts e na copa do mundo sub-19<br>
+Reynan chegou a ter numero parecidos com o Izan almansa na competição mundial. <br>
+O ala-pivo espanhol foi eleito o MVP da copa do mundo e ja é cotado como uma das escolhas<br>
+de loterial do draft de 2024 da NBA. No mundial o Brasileiro teve media de 16.6 pontos<br>
+ 5.6 rebotes e 3.0 assistencias. Na semi final o Brasileiro Reynan deitou, anotando <br>
+ 25 pontos e pegando 12 rebotes e tendo um aproveitamento acima da media 62.5%<br>
+     Ele é conhecido pela sua força fisica e explosão<br>
+     Apesar das dificuldades, ele continuou e fez o que te deixava feliz, que era jogar basquete e hoje a gente ve que a persistencia<br>
+     e a resiliencia, fazem a diferenã para quem acredita em um futuro melhor<br>
+    </section>
+    <br><!--pula a linha-->
+    </section>
+    <h2>Familia faz toda a diferença</h2>
+    <p>Já pelos bastidores existe um trabalho muito bem feito, conhecido pela sua humildade e simpatia.<br>
+ Ele é movido por muito disciplina e educação, dona Luana, mae de Reynan batalhou muito e fez o possivel e impossivel para isso se tornar realidade<br>
+Foi nesse momento que eu falei: quero jogar basquete de verdade, antes era por diversão. Eu achei que a minha mãe não fosse gostar quando veio essa  <br>   
+chance de ir para Franca, mas ela falou: "Agora é com você". Ela me deixou escolher entre continuar em casa ou sair. Eu nunca tinha morado sozinho. <br> 
+Foi difícil morar longe dela, mas tive o apoio, ela disse: "Vai pra cima". É minha fã número 1, minha melhor amiga, me apoia, me incentiva. <br> 
+Ela não me deixa desistir quando estou triste, tem sempre aquela frase pronta para me ajudar. Financeiramente, a coisa nunca foi boa, tinha só o básico. <br> 
+Eu ficava triste porque, às vezes, não tinha condição de ir para algum campeonato, mas ela sempre tentava de tudo junto com o Guilherme Camargo, que sempre me apoiou. <br> 
+    <h3>seção2.1</h3>
+    <p>lorem ipsum dolor sit amet, consectetur adipisicing elit. sapient</p>
+</section>
+</main>
+<hr>
+<footer><!--rodape da pagina-->
+    <P>IFSP<br>
+    REDES: @Reynan Gabriel<br> 
+    <article>
+       </p>FEEDBACK:<br>
+</footer>
+<header>
+</body>
+</html>
